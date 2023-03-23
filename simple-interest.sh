@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: indexman1
    # Additional Authors:
-   # <your GitHub username>
+   # indexman1
 
    # Input:
    # p, principal amount
@@ -27,4 +27,3 @@
    echo "The simple interest is: "
    echo $s
 
-<indexman1>
